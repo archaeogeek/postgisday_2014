@@ -1,0 +1,25 @@
+.reveal a:not(.image) {
+  color: red !important;
+ }
+
+ img {
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  border:0px !important;
+}
+
+.reveal {
+  font-size: 30px !important;
+}
+
+.reveal h2 {
+	font-weight: bold !important;
+}
+
+.reveal table td {
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  border-bottom: 1px solid;
+  font-size: 20px !important;
+}
